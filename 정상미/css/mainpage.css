@@ -37,6 +37,10 @@
     line-height: normal;
 }
 
+#title {
+    margin-left: 20px;
+}
+
 /* 로컬 푸드 코인을 가장 많이 받았어요: */
 .second_title {
     width: 611px;
